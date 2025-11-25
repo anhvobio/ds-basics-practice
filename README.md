@@ -1,0 +1,5 @@
+# ds-basics-practice
+This repository documents my early journey into Data Science. Although my academic background is in Biology — specifically animal physiology and later a Master’s degree in Biotechnology — I am now expanding my skills to better understand how data-driven approaches can support scientific research. As part of my training at a professional data science program, I’m working through a structured curriculum that includes hands-on exercises, mini-projects, and assignments using a variety of datasets. Some datasets relate to biological problems that interest me, while others (e.g., motorbike listings or market data) are included as part of the course to help me develop general analytical and programming skills. This repository serves as a place for me to practice foundational concepts, revisit key techniques, and track my progress as I transition from a life sciences background into the broader field of data analysis and modeling.
+
+- 📦 Repository: [Motorbike Recommendation App](https://github.com/anhvobio/motorbike-recommendation-app)
+- 🚀 Demo App: [Streamlit App](https://motorbike-recommendation-app-vha.streamlit.app/)
