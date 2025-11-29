@@ -3,3 +3,6 @@ This repository documents my early journey into Data Science. Although my academ
 
 - 📦 Repository: [Motorbike Recommendation App](https://github.com/anhvobio/motorbike-recommendation-app)
 - 🚀 Demo App: [Streamlit App](https://motorbike-recommendation-app-vha.streamlit.app/)
+  
+## Capstone Project Presentation Slide – Data Science Certificate 2025  
+[📄 View the Slide (PDF)](https://github.com/anhvobio/ds-basics-practice/blob/main/Final_project_HoangAnh_XuanBach%20(1).pdf)
